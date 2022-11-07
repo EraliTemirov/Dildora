@@ -1,0 +1,62 @@
+.container {
+  margin: 0 auto;
+  width: 580px;
+}
+
+body {
+  background-color: rgba(221, 229, 161, 0.66);
+}
+
+h1 {
+  width: 500px;
+  margin-left: 50px;
+}
+
+.one {
+  color: red;
+  font-size: 20px;
+  line-height: 1.8rem;
+}
+
+.foto {
+  width: 450px;
+}
+
+strong {
+  color: rgb(91, 27, 27);
+  font-size: 40px;
+  margin: 50px 10px;
+  display: block;
+}
+
+.two {
+  line-height: 1.8rem;
+  margin-left: 100px;
+  width: 310px;
+  font-size: 20px;
+  color: rgb(0, 143, 0);
+}
+
+.three {
+  line-height: 1.8rem;
+  margin-left: 100px;
+  width: 280px;
+  font-size: 25px;
+  color: rgb(93, 143, 0);
+}
+
+.tree {
+  line-height: 1.8rem;
+  margin-left: 50px;
+  width: 420px;
+  font-size: 25px;
+  color: rgb(67, 54, 182);
+}
+
+.end {
+  line-height: 1.8rem;
+  margin-left: 50px;
+  width: 420px;
+  font-size: 25px;
+  color: rgb(182, 54, 122);
+}/*# sourceMappingURL=main.css.map */
